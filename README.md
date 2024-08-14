@@ -2,30 +2,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BrendonJoaoDEVoficial/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
 <p align="left">Futuro desenvolvedor de jogos 🎮👾<br>Juiz de Fora, Minas Gerais, Brasil 🌍<br>Cursando: Técnico em Desenvolvimento de Sistemas - SENAC 🎓📚<br>Estudando por conta própria:<br>IDE: Visual Studio Code, PyCharm ⌨️🖱️<br>Engine: Godot 🤖⚙️<br>Linguagem: Python 🐍 GDL script 📝📖</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+
 </div>
 
 ###
