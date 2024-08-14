@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Futuro desenvolvedor de jogos 🎮👾<br>Juiz de Fora, Minas Gerais, Brasil 🌍<br>Cursando: Técnico em Desenvolvimento de Sistemas - SENAC 🎓📚<br>Estudando por conta própria:<br>IDE: Visual Studio Code, PyCharm ⌨️🖱️<br>Engine: Godot 🤖⚙️<br>Linguagem: Python 🐍 GDL script 📝📖</p>
+<p align="left">Futuro desenvolvedor de jogos 🎮👾<br>Juiz de Fora, Minas Gerais, Brasil 🌍<br>Cursando: Técnico em Desenvolvimento de Sistemas - SENAC 🎓📚<br>Estudando por conta própria:<br>IDE: Visual Studio Code, PyCharm ⌨️🖱️<br>Engine: Godot 🤖⚙️<br>Linguagem: Python 🐍 GD script 📝📖</p>
 
 ###
 
